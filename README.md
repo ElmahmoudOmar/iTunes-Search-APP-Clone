@@ -12,7 +12,7 @@ Technologies:
 - Pagination
 - Combine framework
 
-SwiftUI elements
+SwiftUI elements:
 - Search bar
 - Lists
 - Infinite scrollview
