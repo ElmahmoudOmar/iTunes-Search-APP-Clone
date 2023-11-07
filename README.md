@@ -18,4 +18,4 @@ SwiftUI elements:
 - Infinite scrollview
 - Lazy loading - images with AsyncImage
 - Vertical scrollview sections,LazyHGrid
-- NavigationView and NavigationLings
+- NavigationView and NavigationLinks
